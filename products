@@ -1,0 +1,67 @@
+{
+  "products": 
+  [
+     {"ciudad" : "CABA",
+      "contacto" : "feli@feli.com",
+      "descripcion" : "Bici a bateria - joya nunca taxi",
+      "foto" : "https://images-na.ssl-images-amazon.com/images/I/71XBJh3RgML._AC_SL1500_.jpg",
+      "precio" : "$4000",
+      "sku" : "12345678",
+      "titulo" : "Bici electrica"
+    },
+    {
+      "ciudad" : "CABA",
+      "contacto" : "11612345678",
+      "descripcion" : "Bici antigua. No anda pero queda hermosa en el living",
+      "foto" : "https://cdn.mos.cms.futurecdn.net/iR4WthbKP8UEtZMCdbhZK9-320-80.jpg",
+      "precio" : "$2500",
+      "sku" : "34567890",
+      "titulo" : "Bici vintage"
+    },
+    {
+      "ciudad" : "CABA",
+      "contacto" : "gabo@gabo.com",
+      "descripcion" : "Solo para gente que se tome esto seriamente",
+      "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDHbiuH-OrprnX4E6tMIrvhxCGjcI9jikreG_YCOrTwQGTtygB&usqp=CAU",
+      "precio" : "$5000",
+      "sku" : "67452310",
+      "titulo" : "Bicicleta de carrera"
+    },
+   {
+      "ciudad" : "CABA",
+      "contacto" : "feli@feli.com",
+      "descripcion" : "Bici con rueditas, hermosa! Usada pero en perfecto estado",
+      "foto" : "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3429569-750-750/BYYccnX.jpg?v=636957901750900000",
+      "precio" : "$1500",
+      "sku" : "67859403",
+      "titulo" : "Bici azul para chicos"
+    },
+    {
+      "ciudad" : "CABA",
+      "contacto" : "laura@laura.com",
+      "descripcion" : "Bici para tu peque. Viene en distintos colores",
+      "foto" : "https://www.volare-bicycles.com/images/detailed/16/Volare_14_inch_Rose_fiets-W1800.jpg",
+      "precio" : "$1300",
+      "sku" : "87654321",
+      "titulo" : "Bici para niños"
+    },
+    {
+      "ciudad" : "CABA",
+      "contacto" : "11698765432",
+      "descripcion" : "Una maravilla - ultra liviana y mucha vida util",
+      "foto" : "https://images-na.ssl-images-amazon.com/images/I/7154NNdjE4L._SX425_.jpg",
+      "precio" : "$6000",
+      "sku" : "0987654321",
+      "titulo" : "Bici Plegable Electrica"
+    },
+   {
+      "ciudad" : "CABA",
+      "contacto" : "flor@flor.com",
+      "descripcion" : "Bici para dos! Como en las viejas épocas!",
+      "foto" : "https://1843magazine.static-economist.com/sites/default/files/201904_DE_REW_01-header.jpg",
+      "precio" : "$1500",
+      "sku" : "1234567890",
+      "titulo" : "Tandem"
+    }
+  ]
+}
