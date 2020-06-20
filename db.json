@@ -1,7 +1,8 @@
 {
   "products": 
   [
-     {"ciudad" : "CABA",
+     {"id":1,
+      "ciudad" : "CABA",
       "contacto" : "feli@feli.com",
       "descripcion" : "Bici a bateria - joya nunca taxi",
       "foto" : "https://images-na.ssl-images-amazon.com/images/I/71XBJh3RgML._AC_SL1500_.jpg",
@@ -9,7 +10,7 @@
       "sku" : "12345678",
       "titulo" : "Bici electrica"
     },
-    {
+    {"id":2,
       "ciudad" : "CABA",
       "contacto" : "11612345678",
       "descripcion" : "Bici antigua. No anda pero queda hermosa en el living",
@@ -18,7 +19,7 @@
       "sku" : "34567890",
       "titulo" : "Bici vintage"
     },
-    {
+    { "id":3,
       "ciudad" : "CABA",
       "contacto" : "gabo@gabo.com",
       "descripcion" : "Solo para gente que se tome esto seriamente",
@@ -27,7 +28,7 @@
       "sku" : "67452310",
       "titulo" : "Bicicleta de carrera"
     },
-   {
+   {"id":4,
       "ciudad" : "CABA",
       "contacto" : "feli@feli.com",
       "descripcion" : "Bici con rueditas, hermosa! Usada pero en perfecto estado",
@@ -36,7 +37,7 @@
       "sku" : "67859403",
       "titulo" : "Bici azul para chicos"
     },
-    {
+    {"id":5,
       "ciudad" : "CABA",
       "contacto" : "laura@laura.com",
       "descripcion" : "Bici para tu peque. Viene en distintos colores",
@@ -45,7 +46,7 @@
       "sku" : "87654321",
       "titulo" : "Bici para niños"
     },
-    {
+    {"id":6,
       "ciudad" : "CABA",
       "contacto" : "11698765432",
       "descripcion" : "Una maravilla - ultra liviana y mucha vida util",
@@ -54,7 +55,7 @@
       "sku" : "0987654321",
       "titulo" : "Bici Plegable Electrica"
     },
-   {
+   {"id":7,
       "ciudad" : "CABA",
       "contacto" : "flor@flor.com",
       "descripcion" : "Bici para dos! Como en las viejas épocas!",
