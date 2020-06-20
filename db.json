@@ -19,7 +19,7 @@
       "sku" : "34567890",
       "titulo" : "Bici vintage"
     },
-    { "id":3,
+    {"id":3,
       "ciudad" : "CABA",
       "contacto" : "gabo@gabo.com",
       "descripcion" : "Solo para gente que se tome esto seriamente",
